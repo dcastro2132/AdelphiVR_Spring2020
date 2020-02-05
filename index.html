@@ -2,15 +2,18 @@
 <html>
 <head>
 	<title></title>
+	<script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
 </head>
 <body>
 	<a-scene background ="blue">
-		<a-plane color="green" width="10" height="10" rotation="-90 0 0 "></a-plane>
-
 		<a-assets>
-			<a-asset-item id = "star" src="star.gltf"></a-asset-item>
+			<a-asset-item id = "bat" src="Models/zubat/zubat.gltf"></a-asset-item>
     	</a-assets>
-            
+<!-- 		<a-plane color="green" width="10" height="10" rotation="-90 0 0 "></a-plane>
+ -->
+      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
+
+      <a-entity position = "0 0 -5" rotation = "0 0 0" scale = "1 1 1" gltf-model = "#bat"></a-entity>
 	</a-scene>
 </body>
 </html>
