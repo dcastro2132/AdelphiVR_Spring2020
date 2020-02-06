@@ -1,0 +1,142 @@
+# Blender MTL File: 'FinalCorridor.blend'
+# Material Count: 12
+
+newmtl balls
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl bar1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl bar2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl ceiling
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl curtains
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl delta_rune
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl floor
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl mmd_tools_rigid_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.498039 0.866667 0.831373
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl outer_hallway
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307451 0.304314 0.219608
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl pillars
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl walls
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+
+newmtl windows
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
+map_d C:\\Users\\danca\\Downloads\\Final Corridor v1.2\\Final Corridor v1.2\\UV.bmp
