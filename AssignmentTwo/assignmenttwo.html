@@ -11,6 +11,9 @@
                 <a-asset-item id = "JudgementHall_glb" src="Models/FinalCorridor.glb"></a-asset-item>
             </a-assets>
             
+            <!--Increase the movement speed of the player and the camera.-->
+            <a-entity camera look-controls wasd-controls="acceleration: 200" position="0 1.6 0"></a-entity>
+
             <!--Syntax for creating an obj model-->
             <a-entity gltf-model="#JudgementHall_glb" scale=".5 .5 .5"
             position="0 0 0"></a-entity>
