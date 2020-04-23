@@ -7,13 +7,12 @@
 
         <a-scene background="color: white">
             <a-assets>
-                <!-- Assets required for obj to load. Obj file and corresponing mtl to point to image data-->
-                <a-asset-item id = "JudgementHall" src="Models/FinalCorridor.obj"></a-asset-item>
-                <a-asset-item id = "JudgementHall_mtl" src="Models/FinalCorridor.mtl"></a-asset-item>
+                <!-- Assets required for glb to load-->
+                <a-asset-item id = "JudgementHall_glb" src="Models/FinalCorridor.glb"></a-asset-item>
             </a-assets>
             
             <!--Syntax for creating an obj model-->
-            <a-entity obj-model="obj: #JudgementHall; mtl: #JudgementHall_mtl" scale=".5 .5 .5"
+            <a-entity gltf-model="#JudgementHall_glb" scale=".5 .5 .5"
             position="0 0 0"></a-entity>
 
         </a-scene>
